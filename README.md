@@ -51,7 +51,7 @@ Le projet repose sur une approche en trois dimensions :
 
 <img width="452" height="131" alt="image" src="https://github.com/user-attachments/assets/4af6055a-fe80-4d6d-99d3-ae70edc89f80" />
 
-<img width="452" height="130" alt="image" src="https://github.com/user-attachments/assets/40c31418-c730-48bf-8bb6-2ee49c2b4550" />
+<img width="452" height="131" alt="image" src="https://github.com/user-attachments/assets/40c31418-c730-48bf-8bb6-2ee49c2b4550" />
 
 ### 🔹 Un modèle basé sur un nombre limité d’espèces
 
@@ -65,7 +65,7 @@ Le projet repose sur une approche en trois dimensions :
 * Les espèces les plus pêchées ne sont pas les plus rentables
 * La création de valeur repose davantage sur les prix que sur les volumes
 
-<img width="435" height="352" alt="image" src="https://github.com/user-attachments/assets/3b57864d-41b1-4d20-a794-144ce43bd9b6" /> <img width="452" height="286" alt="image" src="https://github.com/user-attachments/assets/30220fd0-d57b-4bcb-9e9b-57f2a137f098" />
+<img width="435" height="352" alt="image" src="https://github.com/user-attachments/assets/3b57864d-41b1-4d20-a794-144ce43bd9b6" /> <img width="452" height="352" alt="image" src="https://github.com/user-attachments/assets/30220fd0-d57b-4bcb-9e9b-57f2a137f098" />
 
 ### 🔹 Le rôle déterminant des subventions
 
@@ -73,7 +73,7 @@ Le projet repose sur une approche en trois dimensions :
 * Jusqu’à 15 % du chiffre d’affaires du secteur
 * Les flottilles les plus énergivores sont les plus dépendantes aux aides
 
-<img width="452" height="253" alt="image" src="https://github.com/user-attachments/assets/1b125a8f-0e3d-4000-ad09-dbdf0607aa2c" />
+<img width="452" height="352" alt="image" src="https://github.com/user-attachments/assets/1b125a8f-0e3d-4000-ad09-dbdf0607aa2c" />
 
 ### 🔹 Un désalignement économique et environnemental
 
