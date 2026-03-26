@@ -120,6 +120,8 @@ Période analysée : **2008–2022**
 * 9 tables de dimensions
 * Mesures DAX pour indicateurs clés
 
+<img width="465" height="352" alt="image" src="https://github.com/user-attachments/assets/af48c780-7eb2-41e6-8f5f-5e39256af88b" />
+
 ---
 
 ## 📈 Data Visualization
